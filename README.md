@@ -30,6 +30,10 @@ Une fonctionnalité unique est le **Hall of Fame**, permettant aux joueurs de sa
 * Gestion de solde : Option d'acheter de nouveaux jetons si le solde est épuisé.
 
 
+## Prévisualisation
+
+![Capture d'écran du jeu Python-Blackjack](https://github.com/STENS66/Python-Blackjack/blob/main/images/gameplay.png?raw=true)
+
 
 ### Compatibilité
 
