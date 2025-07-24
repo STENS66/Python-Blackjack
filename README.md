@@ -91,14 +91,11 @@ Ce jeu est destiné aux amateurs de jeux de casino, en particulier ceux qui appr
 
 
 
-## Installation
+## Installation (Windows 10/11 - 64 bits)
 
-
-Exécutable (Windows 10/11 - 64 bits)
-Téléchargez la dernière version de l'exécutable Python-Blackjack.exe depuis la section Releases de ce dépôt.
-Faites un double-clic sur le fichier téléchargé pour lancer le jeu.
-
-Vous pouvez télécharger la dernière version de l'application ici: https://github.com/STENS66/Python-Blackjack/releases
+1. Téléchargez le fichier exécutable de la dernière version ici: https://github.com/STENS66/Python-Blackjack/releases
+2. Faites un double-clic sur le fichier téléchargé pour lancer le jeu.
+3. Suivez les instructions à l'écran pour compléter l'installation.
 
 
 ## Contact
