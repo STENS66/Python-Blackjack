@@ -98,6 +98,7 @@ Exécutable (Windows 10/11 - 64 bits)
 Téléchargez la dernière version de l'exécutable Python-Blackjack.exe depuis la section Releases de ce dépôt.
 Faites un double-clic sur le fichier téléchargé pour lancer le jeu.
 
+Vous pouvez télécharger la dernière version de l'application ici: https://github.com/STENS66/Python-Blackjack/releases
 
 
 ## Contact
