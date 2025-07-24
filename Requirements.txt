@@ -1,0 +1,8 @@
+imageio==2.37.0
+keyboard==0.13.5
+Nuitka==2.7.11
+numpy==2.3.1
+ordered-set==4.1.0
+pillow==11.3.0
+pygame==2.6.1
+zstandard==0.23.0
